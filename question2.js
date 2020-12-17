@@ -20,5 +20,4 @@ for(var i = 0; i < arr.length; i++){
 }
 return maxConsecutive
 }
-
 console.log(consecutive(arr))
